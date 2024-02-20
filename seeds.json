@@ -164,5 +164,37 @@
             "hvn2bottom"
         ],
         "url": "data/SOFI_-_LEVELS.csv"
+    },
+    {
+        "name": "dis_my_custom_data",
+        "description": "Some custom data for DIS",
+        "fields": [
+            "price",
+            "hvl",
+            "50sma",
+            "200sma",
+            "vpoc",
+            "donbasis",
+            "calloi",
+            "putoi",
+            "absgex1",
+            "absgex2",
+            "vah",
+            "val",
+            "pcr",
+            "ngex",
+            "hpgextop",
+            "hpgexbottom",
+            "hngextop",
+            "hngexbottom",
+            "expmup",
+            "expmdown",
+            "hvncount",
+            "hvn1top",
+            "hvn1bottom",
+            "hvn2top",
+            "hvn2bottom"
+        ],
+        "url": "data/DIS_-_LEVELS.csv"
     }
 ]
