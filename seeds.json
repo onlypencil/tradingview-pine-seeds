@@ -228,5 +228,35 @@
             "hvn2bottom"
         ],
         "url": "data/GOOG_-_LEVELS.csv"
+    },
+    {
+        "name": "msft_my_custom_data",
+        "description": "Some custom data for MSFT",
+        "fields": [
+            "price",
+            "hvl",
+            "50sma",
+            "200sma",
+            "vpoc",
+            "donbasis",
+            "calloi",
+            "putoi",
+            "absgex1",
+            "absgex2",
+            "vah",
+            "val",
+            "pcr",
+            "ngex",
+            "hpgextop",
+            "hpgexbottom",
+            "hngextop",
+            "hngexbottom",
+            "expmup",
+            "expmdown",
+            "hvncount",
+            "hvn1top",
+            "hvn1bottom"
+        ],
+        "url": "data/MSFT_-_LEVELS.csv"
     }
 ]
