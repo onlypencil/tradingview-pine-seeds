@@ -258,5 +258,37 @@
             "hvn1bottom"
         ],
         "url": "data/MSFT_-_LEVELS.csv"
+    },
+    {
+        "name": "amzn_my_custom_data",
+        "description": "Some custom data for AMZN",
+        "fields": [
+            "price",
+            "hvl",
+            "50sma",
+            "200sma",
+            "vpoc",
+            "donbasis",
+            "calloi",
+            "putoi",
+            "absgex1",
+            "absgex2",
+            "vah",
+            "val",
+            "pcr",
+            "ngex",
+            "hpgextop",
+            "hpgexbottom",
+            "hngextop",
+            "hngexbottom",
+            "expmup",
+            "expmdown",
+            "hvncount",
+            "hvn1top",
+            "hvn1bottom",
+            "hvn2top",
+            "hvn2bottom"
+        ],
+        "url": "data/AMZN_-_LEVELS.csv"
     }
 ]
