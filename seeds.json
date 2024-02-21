@@ -324,5 +324,39 @@
             "hvn3bottom"
         ],
         "url": "data/NVDA_-_LEVELS.csv"
+    },
+    {
+        "name": "^spx_my_custom_data",
+        "description": "Some custom data for ^SPX",
+        "fields": [
+            "price",
+            "hvl",
+            "50sma",
+            "200sma",
+            "vpoc",
+            "donbasis",
+            "calloi",
+            "putoi",
+            "absgex1",
+            "absgex2",
+            "vah",
+            "val",
+            "pcr",
+            "ngex",
+            "hpgextop",
+            "hpgexbottom",
+            "hngextop",
+            "hngexbottom",
+            "expmup",
+            "expmdown",
+            "hvncount",
+            "hvn1top",
+            "hvn1bottom",
+            "hvn2top",
+            "hvn2bottom",
+            "hvn3top",
+            "hvn3bottom"
+        ],
+        "url": "data/^SPX_-_LEVELS.csv"
     }
 ]
